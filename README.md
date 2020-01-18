@@ -1,2 +1,2 @@
-# chiffre-en-lettre
-petite programme pour convertir une somme(nombre) en lettre (fr)
+# nombre-en-lettre
+petit programme pour convertir un nombre en lettres (fr)
